@@ -1,7 +1,6 @@
 export default function Navigation() {
     return (
         <nav className="navigation">
-            <div className="navigation">
                 <ul>
                     <li><span>Home</span></li>
                     <li><a href="#">Get started</a></li>
@@ -9,7 +8,6 @@ export default function Navigation() {
                     <li><a href="#">Gear</a></li>
                     <li><a href="#">Forum</a></li>
                 </ul>
-            </div>
         </nav>
     );
 }
