@@ -4,7 +4,7 @@ export default function Header() {
             <div className="hero-body">
                 <div className="container">
                     <h1>Birdwatching</h1>
-                    <img src="./image/dove.png" alt="a simple dove logo"/>
+                    <img src="./images/dove.png" alt="a simple dove logo"/>
                 </div>
             </div>
         </header>
