@@ -4,7 +4,7 @@ export default function Header() {
             <div className="hero-body">
                 <div className="container">
                     <h1>Birdwatching</h1>
-                    <img src="C:\Users\chicoty\lecture\webpro\react-tutorial1\src\components\images\dove.png" alt="a simple dove logo"/>
+                    <img src="http://localhost:5173/images/dove.png" alt="a simple dove logo"/>
                 </div>
             </div>
         </header>
